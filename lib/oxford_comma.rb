@@ -7,4 +7,6 @@ else array.length == 3 || array.length > 3
   a = array.pop
   array.join(", ") + ", and " + a
 end
+end
+
 
